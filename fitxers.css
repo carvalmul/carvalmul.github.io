@@ -1,0 +1,43 @@
+/* Estils de les etiquetes */
+body{
+background-color:#9ee0ff;
+}
+/* Estils dels id */
+/* contenidor extern */
+#wrapper{
+width:80%;
+margin:10px auto;
+}
+/* apartats */
+#cap{
+width:80%;
+margin:10px auto;
+border:solid 1px black;
+padding:10px;
+background-color:white;
+}
+#cap h1{
+width:50%;
+margin:10px auto;
+text-align:center;
+}
+#contingut{
+width:80%;
+margin:10px auto;
+border:solid 1px black;
+padding:10px;
+background-color:white;
+text-align: center;
+}
+#peu{
+width:80%;
+margin:10px auto;
+border:solid 1px black;
+padding:10px;
+background-color:white;
+}
+#peu p{
+width:50%;
+margin:10px auto;
+text-align:center;
+}
